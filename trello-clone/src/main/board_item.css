@@ -1,0 +1,18 @@
+.board-items{
+  width: 200px;
+  min-height: 200px;
+  border: 1px dashed lightgray;
+  text-align: center;
+}
+
+.list-items{
+  height: 75px;
+  width: 190px;
+  border: 1px dashed black;
+  margin: 0 auto;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-between;
+}

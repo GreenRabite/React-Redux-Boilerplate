@@ -1,0 +1,27 @@
+#main-board{
+  display: flex;
+  margin: 0 auto;
+  width: 1000px;
+  justify-content: center;
+}
+
+#board-item{
+  border: 1px dashed lightgray;
+  min-height: 200px;
+  width: 280px;
+  text-align: center;
+}
+
+.board-list-item{
+  border: 1px dashed black;
+  min-height: 75px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-between;
+}
